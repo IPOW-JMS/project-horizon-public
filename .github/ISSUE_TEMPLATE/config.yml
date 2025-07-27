@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 
 contact_links:
-  - name: "📬 Security Disclosure"
+  - name: "🕵️ Security Disclosure"
     url: "mailto:projecthorizon.stealth@gmail.com"
     about: "Please report security vulnerabilities or sensitive findings via email."
 
