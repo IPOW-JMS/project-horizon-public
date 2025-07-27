@@ -73,4 +73,4 @@ Attribution is required. Commercial use is allowed.
 
 📬 Questions or interested in collaborating?
 
-Reach us at: [projecthorizon.stealth@gmail.com](mailto:projecthorizon.stealth@gmail.com)
+Reach us at: [projecthorizon.stealth@gmail.com](mailto:projecthorizon.stealth@gmail.com)# Trigger test
