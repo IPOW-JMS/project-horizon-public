@@ -4,7 +4,7 @@
 
 **A modular AI-native framework for exploring emerging private markets.**
 
-Project Horizon is an experimental platform designed to support open research and development around intelligent systems, market intelligence, and private company exploration. This public repo provides scaffolding and utilities to support extensions, integrations, and AI workflows—while protecting the proprietary core logic and product vision.
+Project Horizon is an experimental platform designed to support open research and development around intelligent systems, applied embeddings, and AI-native UI workflows. This public repo provides scaffolding and utilities to support extensions, integrations, and experimentation—while protecting the proprietary core logic and product vision.
 
 ---
 
@@ -24,9 +24,9 @@ Project Horizon is an experimental platform designed to support open research an
 The proprietary core of Project Horizon is maintained in a private companion repo. It includes:
 
 * Agentic workflows and prompt logic
-* Tier progression and gamification systems
+* Engagement tracking and progression systems
 * Proprietary datasets and embeddings
-* Business logic powering prediction models and investor engagement
+* Application-specific logic powering adaptive UX and signal modeling
 
 See [`PROPRIETARY.md`](./PROPRIETARY.md) for more details.
 
