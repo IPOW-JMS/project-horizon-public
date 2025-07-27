@@ -205,3 +205,36 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Environments
+.env
+.env.*
+
+# Cursor & Jupyter
+cursor.db
+*.ipynb_checkpoints
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Nhost local artifacts
+nhost/.cache/
+nhost/.output/
+nhost/.env
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+coverage/
+
+# Data
+data/exports/
+data/seed/*.json
+
+# SQLite or vector artifacts
+*.sqlite3
+*.faiss
+*.npy
