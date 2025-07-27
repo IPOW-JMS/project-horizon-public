@@ -1,5 +1,7 @@
 # 🚀 Project Horizon (Public Scaffold)
 
+![CI](https://github.com/ipow-jms/project-horizon-public/actions/workflows/dev-checks.yml/badge.svg)
+
 **A modular AI-native framework for exploring emerging private markets.**
 
 Project Horizon is an experimental platform designed to support open research and development around intelligent systems, market intelligence, and private company exploration. This public repo provides scaffolding and utilities to support extensions, integrations, and AI workflows—while protecting the proprietary core logic and product vision.
