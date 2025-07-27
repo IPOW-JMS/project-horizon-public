@@ -1,0 +1,15 @@
+blank\_issues\_enabled: false
+
+contact\_links:
+
+* name: 📬 Security Disclosure
+  url: mailto\:projecthorizon[.stealth@gmail.com](mailto:.stealth@gmail.com)
+  about: Please report security vulnerabilities or sensitive findings via email.
+
+* name: 📖 Read the Architecture Guide
+  url: [https://github.com/ipow-jms/project-horizon-public/blob/main/docs/architecture.md](https://github.com/ipow-jms/project-horizon-public/blob/main/architecture.md)
+  about: Review this first if your question relates to system design.
+
+* name: 🚫 Proprietary Boundaries Reminder
+  url: [https://github.com/ipow-jms/project-horizon-public/blob/main/PROPRIETARY.md](https://github.com/ipow-jms/project-horizon-public/blob/main/PROPRIETARY.md)
+  about: Please do not submit issues that pertain to private or closed-source logic.

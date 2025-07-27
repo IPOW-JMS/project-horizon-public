@@ -1,0 +1,37 @@
+name: Question
+description: Ask a question or request clarification
+labels: [question]
+title: “[QUESTION] ”
+body:
+	•	type: markdown
+attributes:
+value: |
+Use this form to ask questions related to public modules, scaffolding design, or general contributor guidance.
+	•	type: textarea
+id: context
+attributes:
+label: What are you trying to understand?
+description: Describe your question clearly and share relevant context.
+validations:
+required: true
+	•	type: textarea
+id: details
+attributes:
+label: Any specific file, module, or function involved?
+description: Optional. Helps us point you in the right direction.
+validations:
+required: false
+	•	type: textarea
+id: what-you-tried
+attributes:
+label: What have you tried so far?
+description: Optional. Mention anything you’ve done to resolve the question.
+validations:
+required: false
+	•	type: input
+id: contact
+attributes:
+label: Optional email (if you’d like a private follow-up)
+description: Your response will still be public unless otherwise discussed.
+validations:
+required: false
