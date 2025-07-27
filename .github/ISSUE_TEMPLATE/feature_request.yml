@@ -1,37 +1,41 @@
 name: Feature Request
 description: Suggest an enhancement or new capability
 labels: [enhancement]
-title: “[FEATURE] ”
+title: "[FEATURE] "
 body:
-	•	type: markdown
-attributes:
-value: |
-We welcome ideas for public scaffolding enhancements, dev utilities, or non-sensitive experimentation features.
-	•	type: textarea
-id: problem
-attributes:
-label: What problem are you trying to solve?
-description: Describe the need or challenge this feature addresses.
-validations:
-required: true
-	•	type: textarea
-id: solution
-attributes:
-label: Describe the feature you’d like
-description: Be as clear and specific as possible.
-validations:
-required: true
-	•	type: textarea
-id: alternatives
-attributes:
-label: Any alternatives you’ve considered?
-description: Optional, but helpful to understand tradeoffs.
-validations:
-required: false
-	•	type: input
-id: related-files
-attributes:
-label: Relevant files or modules
-description: Optional. Mention any specific folders or scripts.
-validations:
-required: false
+  - type: markdown
+    attributes:
+      value: |
+        We welcome ideas for public scaffolding enhancements, dev utilities, or non-sensitive experimentation features.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: Describe the need or challenge this feature addresses.
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the feature you'd like
+      description: Be as clear and specific as possible.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Any alternatives you've considered?
+      description: Optional, but helpful to understand tradeoffs.
+    validations:
+      required: false
+
+  - type: input
+    id: related-files
+    attributes:
+      label: Relevant files or modules
+      description: Optional. Mention any specific folders or scripts.
+    validations:
+      required: false
