@@ -1,4 +1,4 @@
-🔐 Project Horizon – Security Policy
+# 🔐 Project Horizon – Security Policy
 
 This document outlines how to responsibly report security issues related to the public-facing components of Project Horizon.
 
