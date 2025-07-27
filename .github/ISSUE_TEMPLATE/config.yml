@@ -9,6 +9,6 @@ contact_links:
     url: "https://github.com/ipow-jms/project-horizon-public/blob/main/PROPRIETARY.md"
     about: "Please do not submit issues that pertain to private or closed-source logic."
 
-  - name: "🕵️ Security Disclosure"
+  - name: "🔐 Security Disclosure"
     url: "mailto:projecthorizon.stealth@gmail.com"
     about: "Please report security vulnerabilities or sensitive findings via email."
