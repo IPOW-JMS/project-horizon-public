@@ -1,4 +1,4 @@
-🗺️ Project Horizon – Public Roadmap
+# 🗺️ Project Horizon – Public Roadmap
 
 This roadmap provides a high-level overview of milestones and development phases for the public-facing scaffolding of Project Horizon. Proprietary feature sets, market-specific logic, and product-level innovations are tracked in a separate internal document.
 
