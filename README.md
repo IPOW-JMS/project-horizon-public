@@ -97,4 +97,4 @@ Attribution is required. Commercial use is allowed.
 Reach us at: [projecthorizon.stealth@gmail.com](mailto:projecthorizon.stealth@gmail.com)
 
 
-api_key="1234567890abcdef1234567890abcdef"
+api_key = "fakeapikey1234567890abcdef"
